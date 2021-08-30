@@ -2,7 +2,7 @@
   "name": "react-native-template-social-login-korea",
   "version": "0.0.5",
   "description": "React Native Social Login Template",
-  "repository": "repo",
+  "repository": "https://github.com/CHOISHO/test-template.git",
   "author": "ex-platform <impro0501@naver.com>",
   "license": "MIT"
 }
